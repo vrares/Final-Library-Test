@@ -13,7 +13,5 @@ public interface MovieService {
     String BASE_URL = "https://api.themoviedb.org/";
     String SEARCH_URL = "3/search/movie?api_key=" + API_KEY + "&query=";
 
-    @GET("3/search/movie?api_key=" + API_KEY + "&query={movieQuery}")
-    Call<>
 
 }
