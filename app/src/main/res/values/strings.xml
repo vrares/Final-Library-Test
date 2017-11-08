@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="search_for_a_movie">Search for a movie</string>
+    <string name="search">Search</string>
+    <string name="finally_using_all_libraries_cross_your_fingers_and_pray_it_will_work">Finally using all libraries. Cross your fingers and pray it will work</string>
+    <string name="did_it_work">Did it work?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
