@@ -42,7 +42,6 @@ dependencies {
     annotationProcessor 'com.github.stephanenicolas.toothpick:toothpick-compiler:1.1.1'
     implementation 'com.android.support:recyclerview-v7:26.1.0'
     testImplementation 'junit:junit:4.12'
-    testImplementation 'com.github.stephanenicolas.toothpick:toothpick-testing:1.1.1'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 }
